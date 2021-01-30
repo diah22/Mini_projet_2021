@@ -1,0 +1,28 @@
+
+/* Login css */
+.login-area{
+    padding: 30px;
+    margin-top: 60px;
+    margin-left: 100px;
+    margin-right: 100px;
+    min-width: 500px;
+    background-color: rgba(255, 255, 255, 0.6);
+    border-radius: 10px 10px 10px 10px ;
+}
+
+.box-shadow{
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+}
+
+.card-content{
+    display: inline-block;
+    width: 49%;
+}
+
+.btn-customized{
+    width: 200px;
+}
+
+.card-login{
+    align-items: center;
+}
